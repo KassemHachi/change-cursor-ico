@@ -1,0 +1,10 @@
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe.config
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.exe
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.pdb
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\bin\Debug\WindowsApplication10.xml
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Form1.resources
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.Resources.resources
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.vbproj.GenerateResource.Cache
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.exe
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.xml
+c:\users\kasse\documents\visual studio 2012\Projects\WindowsApplication10\WindowsApplication10\obj\Debug\WindowsApplication10.pdb
